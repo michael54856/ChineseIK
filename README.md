@@ -1,2 +1,6 @@
-# ChineseIK
-use python to detect chineseIK from wiki hyperlink's text
+## 說明
+用Python去取得WIKI中文的超連結文字
+
+由於目的是要取得中文IK斷詞
+
+所以只保留簡體中文與繁體中文
